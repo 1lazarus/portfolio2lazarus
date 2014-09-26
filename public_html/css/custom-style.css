@@ -2,11 +2,46 @@ div {
     border-style: solid;
     border-width: 5px; 
     padding: 30px;
+  
 }
 .container {
-    border-color: black
+    border-color: red;
 }
 .row {
-    border-color: yellow
+    border-color: purple;
 }
 
+body {
+    
+    background-image: url("http://beardpuncher.com/blog/wp-content/uploads/2013/12/4lySYnw.gif")
+   
+}
+
+ 
+
+
+#rosy{
+    
+}
+
+#mom{
+    background-image: url("http://mrwgifs.com/wp-content/uploads/2013/09/Patrick-Star-Smashing-A-Computer-On-Spongebob-Squarepants.gif")
+}
+
+#ball{
+     background-image: url("http://nbatitlechase.com/blog/wp-content/uploads/2014/01/paul-george-360-gif.gif")
+}
+
+img {
+    width: 240px;
+    height: auto;
+}
+h1{
+color: red;
+}
+h2{
+color: red;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
